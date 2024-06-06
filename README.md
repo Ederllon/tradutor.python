@@ -1,2 +1,2 @@
 # tradutor.python
-em contstrução...
+um programa tradutor em python que utiliza o traslate.
