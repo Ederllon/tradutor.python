@@ -1,2 +1,2 @@
 # tradutor.python
-um programa tradutor em python que utiliza o traslate.
+Um programa tradutor em python, consiste em baixar um translate pelo cmd "pip install translate", importar no programa o "Translator" do translate, guardar uma variável com uma função  Translator com a escolha da linguagem, guardar o texto que vai ser traduzido e guardar a tradução com o nome da variável do "Translator" e com ativação da função translate (do import) com o texto para traduzir entre os parâmetros, logo após escrever no console  o texto original e tradução.
